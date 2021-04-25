@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "Giffin Words",
+        "image": "cactus.jpeg",
+        "site": "https://sergiogomez100000.github.io/Project-1-Giffin-Words/"
+        
+    },
+    {
+        "id": 2,
+        "name": "Plan Your Day",
+        "image": "redbush.jpeg",
+        "site": "https://tpidutti.github.io/PlanYourDay/"
+    },
+    {
+        "id": 3,
+        "name": "Create My Team",
+        "image": "redh.jpeg",
+        "site": "https://tpidutti.github.io/CreateMyTeam/"
+    },
+    {
+        "id": 4,
+        "name": "eStore",
+        "image": "redleaves.jpeg",
+        "site": "https://tpidutti.github.io/eStore/"
+    },
+    {
+        "id": 5,
+        "name": "Food Ties",
+        "image": "torchginger.jpeg",
+        "site": "https://food-tiesgroup.herokuapp.com/login"
+    },
+    {
+        "id": 6,
+        "name": "React Employee Directory",
+        "image": "bamboo.jpeg",
+        "site": "https://theresapidutti-employee-directory.netlify.app/"
+    }
+]

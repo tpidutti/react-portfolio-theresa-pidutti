@@ -1,6 +1,5 @@
 # reactPortfolioTheresaPidutti
 
-
 ## Description
 
 This application is a portfolio of my classwork.
@@ -9,43 +8,42 @@ Deployed application ()
 
 ![React Portfolio]()
 
-
 ## Table of Contents
 
-  *[Installation](#installation)
+\*[Installation](#installation)
 
-  *[Usage](#usage)
+\*[Usage](#usage)
 
-  *[License](#license)
+\*[License](#license)
 
-  *[Contribution](#contribution)
+\*[Contribution](#contribution)
 
-  *[Tests](#tests)
+\*[Tests](#tests)
 
-  *[Questions](#questions)
+\*[Questions](#questions)
 
-  ### Installation
-  ```
+### Installation
+
 This application was create with React.
-  ```
- 
-  ### Usage
- 
+
+### Usage
+
 This application is to display some of the homework assignements and class projects that I completed or participated in over the three month bootcamp course.
 
-  ### License
-  This project is licensed under MIT.
+### License
 
-  ### Contribution
-  
-  This application will be updated as improvements are made to projects.
+This project is licensed under MIT.
 
-  ### Tests
-  
- None at this time.
+### Contribution
 
-  ## Questions
-  Please contact me, Theresa, with any questions you might have about this project.  You can reach me at bountravel@hotmail.com or view more of my work at GitHub, [tpidutti](https://github.com/tpidutti).
+This application will be updated as improvements are made to projects.
 
-  
- 
+### Tests
+
+None at this time.
+
+## Questions
+
+```
+Please contact me, Theresa, with any questions you might have about this project.  You can reach me at bountravel@hotmail.com or view more of my work at GitHub, [tpidutti](https://github.com/tpidutti).
+```
