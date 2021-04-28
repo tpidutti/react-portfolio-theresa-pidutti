@@ -1,22 +1,22 @@
 import React from "react";
 
 function Header() {
-  return (  
-    <div class="jumbotron jumbotron-fluid">
-    <div class="container">
-      <h2 class="display-3">Theresa Pidutti</h2>
-      {/* <img src="../images/" class="card-img-top" alt="picture of me"> */}
-      <p class="lead">
-        <a class="btn btn-primary btn-lg" href="Jumbo action link" role="button">About Me</a>
-        <a class="btn btn-primary btn-lg" href="Jumbo action link" role="button">My Experience</a>
-        <a class="btn btn-primary btn-lg" href="Jumbo action link" role="button">Contact Me</a>
-      </p>
+  return (
+    <div className="jumbotron jumbotron-fluid">
+      <div className="container-top">
+        <h2>Theresa Pidutti</h2>
+        <img id="header-photo" src="./images/artLady 2.jpeg" className="top-image" alt="me" />
+        <p>
+          <a className="connect" href="#my experience">
+            My Experience
+          </a>
+          <a className="connect" href="#contact me">
+            Contact Me
+          </a>
+        </p>
+      </div>
     </div>
-  </div>
-
   );
 }
 
 export default Header;
-
-

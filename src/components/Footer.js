@@ -2,10 +2,9 @@ import React from 'react';
 
 function Footer () {
   return (
-<footer class="footer mt-auto py-3 bg-light">
-<div class="container">
+<footer className="footer mt-auto py-3 bg-light">
+<div className="container" id="contact me">
   <span> 
-  <h4 id="contact me">Contact Me</h4>
       <ul>
         <li>(808) 294-9943</li>
         
