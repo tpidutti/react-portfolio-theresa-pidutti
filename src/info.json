@@ -2,6 +2,7 @@
     {
         "id": 1,
         "name": "Giffin Words",
+        "description": "This is a group project that allows the user to search for words and returns the dictionary defintion as well as a gif.",
         "image": "cactus.jpeg",
         "site": "https://sergiogomez100000.github.io/Project-1-Giffin-Words/"
         
@@ -9,31 +10,36 @@
     {
         "id": 2,
         "name": "Plan Your Day",
+        "description": "This application allows the user to input activities into a daily planner.",
         "image": "redbush.jpeg",
         "site": "https://tpidutti.github.io/PlanYourDay/"
     },
     {
         "id": 3,
         "name": "Create My Team",
+        "description": "This application allows the user to to create team members and view them on cards.",
         "image": "redh.jpeg",
         "site": "https://tpidutti.github.io/CreateMyTeam/"
     },
     {
         "id": 4,
         "name": "eStore",
+        "description": "This application allows the user to interact with a demo online store.",
         "image": "redleaves.jpeg",
         "site": "https://tpidutti.github.io/eStore/"
     },
     {
         "id": 5,
         "name": "Food Ties",
+        "description": "This is a group project that presents the user with a quiz with international foods that returns a fun personality description.",
         "image": "torchginger.jpeg",
         "site": "https://food-tiesgroup.herokuapp.com/login"
     },
     {
         "id": 6,
-        "name": "React Employee Directory",
-        "image": "bamboo.jpeg",
+        "name": "Employee Directory",
+        "description": "This application used react and the user can search a directory of employees by name or alphabetize with a button.",
+        "image": "hibiscus.jpeg",
         "site": "https://theresapidutti-employee-directory.netlify.app/"
     }
 ]
