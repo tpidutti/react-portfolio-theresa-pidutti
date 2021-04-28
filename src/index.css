@@ -19,6 +19,10 @@ code {
 ul {
   list-style-type: none;
 }
+li {
+  display: inline;
+  margin-left: 30px;
+}
 
 .container-top {
   text-align: center;
