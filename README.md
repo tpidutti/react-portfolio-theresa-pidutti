@@ -4,9 +4,7 @@
 
 This application is a portfolio of my classwork.
 
-Deployed application ()
-
-![React Portfolio]()
+![React Portfolio](portfolio.png)
 
 ## Table of Contents
 
