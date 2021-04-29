@@ -6,7 +6,7 @@ function Header() {
     <div className="jumbotron jumbotron-fluid">
       <div className="container-top">
         <h2>Theresa Pidutti</h2>
-        <img id="header-photo" src="./images/artLady 2.jpeg" className="top-image" alt="me"/>
+        <img id="header-photo" src="./images/me.jpeg" className="top-image" alt="me"/>
         <ul>
         <li><Link to="/about-me">About Me</Link></li>
           <li><Link to="/">My Experience</Link></li>
